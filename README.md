@@ -1,2 +1,2 @@
 # WebCrawler
-robot that captures information from g1 and globoesport sites
+robot developed to capture information from the websites G1, Globo Esporte and IMDB using cheerio and a currency converter using puppeteer
