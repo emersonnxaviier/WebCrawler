@@ -1,7 +1,10 @@
 var request = require('request');
 var cheerio = require('cheerio');
 
+/* select a link below */
+
 var link = 'https://g1.globo.com/';
+//var link = 'https://ge.globo.com/';
 
    
     request.get(link, function(err, res, body) {
